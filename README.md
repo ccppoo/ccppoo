@@ -1,16 +1,21 @@
 ### Hi there 👋
 
-<!--
-**ccppoo/ccppoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Language - S.Korea 🇰🇷
 
-Here are some ideas to get you started:
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ccppoo.github.io/)](https://ccppoo.github.io/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Github Status
+
+![ccppoo's github stats](https://github-readme-stats.vercel.app/api?username=ccppoo&bg_color=ffa745,fe869f,ef7ac8,a083ed,43aeff&title_color=fff&text_color=fff&show_icons=true&count_private=true)
+
+### Interested
+
+- Automation(Bot)
+- AWS
+- Backend
+
+### Contact
+
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shmishmi79@gmail.com)](mailto:shmishmi79@gmail.com)
+
+
