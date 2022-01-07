@@ -2,7 +2,7 @@
 
 Language - S.Korea 🇰🇷
 
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ccppoo.github.io/)](https://ccppoo.github.io/)
+[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ccppoo.github.io/)](https://ccppoo.github.io/) - Written in Korean
 
 ### Github Status
 
