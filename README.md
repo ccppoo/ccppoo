@@ -13,9 +13,3 @@ Language - S.Korea 🇰🇷
 - Automation(Bot)
 - AWS
 - Backend
-
-### Contact
-
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shmishmi79@gmail.com)](mailto:shmishmi79@gmail.com)
-
-
